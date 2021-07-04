@@ -1,0 +1,30 @@
+## Side View
+[873 ,779]
+[693 ,253]
+[660 ,163]
+[640 ,110]
+[142 ,167]
+[1141 ,116]
+[37 ,209]
+[1259 ,144]
+
+## Bird's Eye View
+[499, 600]
+[499, 406]
+[499, 265]
+[499, 71]
+[218 ,178]
+[781 ,179]
+[218 ,280]
+[781 ,280]
+
+#####
+# down-mid 1
+# circle down 2
+# circle up 3
+# up-mid 4
+# left-up-corner 5
+# right-up-corner 6
+# left-mid-corner 7
+# right-mid-corner 8
+#####
